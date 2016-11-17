@@ -1,10 +1,11 @@
 {
-  "name": "test",
+  "name": "reader-writer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "babel-node ./test/test.runner.js"
+    "test": "babel-node ./test/test.runner.js",
+    "start": "babel-node index.js"
   },
   "author": "",
   "license": "ISC",
